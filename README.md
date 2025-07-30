@@ -54,6 +54,22 @@ The network has 99 parameters (weights + biases), which are flattened into a gen
 
 ---
 
+## 📸 AI Training Snapshots
+
+AI performance can vary due to **randomness** and **luck** in the genetic algorithm. Results may differ in each run, and strong performance might appear in different generations.
+Here are snapshots of the AI's learning progress across generations:
+
+### 🐥 Generation 7 (Early learning)
+![Gen 7](assets/screenshots/gen7.PNG)
+
+### 🐦 Generation 10 (Intermediate skill)
+![Gen 10](assets/screenshots/gen10.PNG)
+
+### 🦅 Generation 15 (Breakthrough run)
+![Gen 15+](assets/screenshots/better_ai.PNG)
+
+
+
 ## 📁 Assets Credit
 
 All visual and sound assets are from the open-source [samuelcust/flappy-bird-assets](https://github.com/samuelcust/flappy-bird-assets) repository.
