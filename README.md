@@ -59,13 +59,13 @@ The network has 99 parameters (weights + biases), which are flattened into a gen
 AI performance can vary due to **randomness** and **luck** in the genetic algorithm. Results may differ in each run, and strong performance might appear in different generations.
 Here are snapshots of the AI's learning progress across generations:
 
-### 🐥 Generation 7 (Early learning)
+### 🐥 Generation 7 (AI learned most of the game can score 50-80)
 ![Gen 7](screenshots/gen7.PNG)
 
-### 🐦 Generation 10 (Intermediate skill)
+### 🐦 Generation 10 (AI learned %99.9 of the game can reach to 1000)
 ![Gen 10](screenshots/gen10.PNG)
 
-### 🦅 Generation 15 (Breakthrough run)
+### 🦅 Generation 15 (To Infinity)
 ![Gen 15+](screenshots/better_ai.PNG)
 
 
