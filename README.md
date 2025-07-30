@@ -60,13 +60,13 @@ AI performance can vary due to **randomness** and **luck** in the genetic algori
 Here are snapshots of the AI's learning progress across generations:
 
 ### 🐥 Generation 7 (Early learning)
-![Gen 7](assets/screenshots/gen7.PNG)
+![Gen 7](screenshots/gen7.PNG)
 
 ### 🐦 Generation 10 (Intermediate skill)
-![Gen 10](assets/screenshots/gen10.PNG)
+![Gen 10](screenshots/gen10.PNG)
 
 ### 🦅 Generation 15 (Breakthrough run)
-![Gen 15+](assets/screenshots/better_ai.PNG)
+![Gen 15+](screenshots/better_ai.PNG)
 
 
 
