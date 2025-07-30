@@ -66,7 +66,7 @@ Here are snapshots of the AI's learning progress across generations:
 ![Gen 10](screenshots/gen10.PNG)
 
 ### 🦅 Generation 15 (To Infinity)
-![Gen 15+](screenshots/better_ai.PNG)
+![Gen 15+](screenshots/gen15.PNG)
 
 
 
